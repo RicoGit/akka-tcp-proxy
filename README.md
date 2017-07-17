@@ -1,5 +1,5 @@
 
-## Service for aggregating warrant exchange data to candles and its send by clients.
+## Service for aggregating warrant exchange data to candles and send it to clients.
 
 
 ### For run use: 
